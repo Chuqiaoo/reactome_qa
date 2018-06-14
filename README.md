@@ -44,7 +44,7 @@ root = "/your path to /reactome_qa"
 
 Run the script with provided QA files and visulize the outcome.csv file through Excel, You will get a similar chart as below,
 
-![alt text](https://raw.githubusercontent.com/Chuqiaoo/reactome_qa/master/reactome.png)
+![alt text](https://github.com/Chuqiaoo/reactome_qa/blob/master/reactome-qa.png)
 
 
 # Contributors
